@@ -2,7 +2,7 @@
 set -euo pipefail
 
 # === EDIT THESE ===
-DOMAIN="aceda.edu.vn khodeazota.id.vn"   # hostname(s) cho cert và nginx (space separated)
+DOMAIN="aceda.id.vn"   # hostname(s) cho cert và nginx (space separated)
 SSH_PORT=2222
 ADMIN_USER="tuananh"                     # user to create
 # ==================
